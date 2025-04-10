@@ -16,6 +16,12 @@ This project is an AI-powered research assistant built with Streamlit, LangChain
 
 ## 📸 Demo
 
+<p align="center">
+  <img src="Demo/Image1.png" width="700"/>
+  <img src="Demo/Image2.png" width="700"/>
+  <img src="Demo/Image3.png" width="700"/>
+</p>
+
 ## 🛠️ Installation
 
 ### 1. Clone the repository
