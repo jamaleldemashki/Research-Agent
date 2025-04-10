@@ -1,6 +1,6 @@
 # 🦙 Autonomous Research Agent (Llama2 + DuckDuckGo + LangChain 🦜🔗)
 
-This project is an AI-powered academic research assistant built with Streamlit, LangChain, Ollama, and DuckDuckGo Search API. It allows users to enter a topic, fetches the top relevant articles, scrapes their content, and provides summarized bullet points using a local Llama2 model.
+This project is an AI-powered research assistant built with Streamlit, LangChain, Ollama, and DuckDuckGo Search API. It allows users to enter a topic, fetches the top relevant articles, scrapes their content, and provides summarized bullet points using a local Llama2 model.
 
 ## 🚀 Features
 
