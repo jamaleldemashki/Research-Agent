@@ -18,7 +18,7 @@ This project is an AI-powered academic research assistant built with Streamlit, 
 
 ## 🛠️ Installation
 
-### 1. Clone the repository:
+### 1. Clone the repository
 
 ### 2. Set up a virtual environment (optional but recommended):
 
