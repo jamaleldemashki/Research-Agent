@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ### 4. Install and run Ollama:
 
-If you haven't installed Ollama yet, download it here.
+If you haven't installed Ollama yet, download it here: https://ollama.com/download.
 Once installed, open your terminal and run:
 
 ```bash
