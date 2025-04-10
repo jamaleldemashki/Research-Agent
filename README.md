@@ -20,11 +20,6 @@ This project is an AI-powered academic research assistant built with Streamlit, 
 
 ### 1. Clone the repository:
 
-```bash
-git clone https://github.com/yourusername/research-agent.git
-cd research-agent
-```
-
 ### 2. Set up a virtual environment (optional but recommended):
 
 ```bash
